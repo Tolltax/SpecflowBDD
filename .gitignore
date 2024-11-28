@@ -1,12 +1,6 @@
-#
+.vs/
 bin/
 obj/
-*.dll
-*.exe
-*.pdb
-
-.vs/
-*.suo
-*.user
-*.log
-*.tmp
+bin/Debug
+bin/Debug/net6.0
+obj/
